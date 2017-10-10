@@ -1,0 +1,2 @@
+# Harjoitus
+Opetellaan gitin kayttoa
